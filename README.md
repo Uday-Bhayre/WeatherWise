@@ -18,9 +18,9 @@ WeatherWise is a Flutter-based weather application that provides real-time weath
 ## Screenshots
 
 <img src="/screenshots/splash.jpg" alt="Splash Screen" height="400"/>
-<img src="/screenshots/welcome.jpg" alt="Onboarding Screen" height="300"/>
-<img src="/screenshots/homepage.jpg" alt="Home Screen" height="300"/>
-<img src="/screenshots/details.jpg" alt="Weather Details Screen" height="300"/>
+<img src="/screenshots/welcome.jpg" alt="Onboarding Screen" height="400"/>
+<img src="/screenshots/homepage.jpg" alt="Home Screen" height="400"/>
+<img src="/screenshots/details.jpg" alt="Weather Details Screen" height="400"/>
 
 ## How to run
 1. Go to directory "apk_file"
